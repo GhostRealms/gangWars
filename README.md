@@ -1,4 +1,4 @@
-# gangWars
+# GangWars
 Two Gangs - 
 	A. East Side Gang	Come Up With Prices For Rank Up yourself
 	B. West Side Gang 
